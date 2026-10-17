@@ -12,3 +12,7 @@ Start the script: ./solrpdf.sh and add the collection in Hue / Search
 	Ticker Symbol: {{file_name}}
 	Industry Category/FilePath: {{file_path}}
 	Text of earnings call {{text}} 
+
+---
+
+More from me on data platforms, streaming and IoT: [novatechflow.com](https://www.novatechflow.com)
